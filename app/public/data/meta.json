@@ -1,8 +1,8 @@
 {
- "buildVersion": "2026-10-24T17:00+05:00",
+ "buildVersion": "2026-10-24T20:00+05:00",
  "fixture": false,
  "evidencePeriod": "2025-08",
- "timezoneStatus": "unconfirmed",
+ "timezoneStatus": "confirmed: FollowMe device_date is UTC; inferred times shifted to UTC+5",
  "speedUnitStatus": "unconfirmed",
  "clockCorrections": 0,
  "timetableYear": 2026,

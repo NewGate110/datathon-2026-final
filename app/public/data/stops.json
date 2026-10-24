@@ -304,5 +304,14 @@
   "lon": 73.5383,
   "censusKey": "LD1079",
   "kind": "island"
+ },
+ {
+  "id": "VELANA_AIRPORT",
+  "name": "Velana Airport",
+  "atoll": "MLE",
+  "lat": 4.1918,
+  "lon": 73.529,
+  "censusKey": null,
+  "kind": "hub"
  }
 ]
